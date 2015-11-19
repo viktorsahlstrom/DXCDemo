@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbFullSql path="c:\users\visa\documents\visual studio 2013\Projects\DXCDemoSite\packages\EPiServer.CMS.Core.9.2.0\tools\EPiServer.Cms.Core.sql" Transacted="False" />
+  <IisApp path="c:\users\visa\documents\visual studio 2013\Projects\DXCDemoSite\DXCDemoSite\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="c:\users\visa\documents\visual studio 2013\Projects\DXCDemoSite\DXCDemoSite\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="c:\users\visa\documents\visual studio 2013\Projects\DXCDemoSite\DXCDemoSite\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="c:\users\visa\documents\visual studio 2013\Projects\DXCDemoSite\DXCDemoSite\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+</sitemanifest>
