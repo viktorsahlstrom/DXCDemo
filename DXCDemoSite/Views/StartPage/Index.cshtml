@@ -1,4 +1,7 @@
+@using System.Configuration
 @using DXCDemoSite
 @model PageViewModel<DXCDemoSite.Models.Pages.StartPage>
+           
+@ConfigurationManager.AppSettings["episerver:EnvironmentName"]
 
 @Html.PropertyFor(x => x.CurrentPage.MainContentArea, new { CssClass = "row equal-height", tag = Global.ContentAreaTags.FullWidth })
